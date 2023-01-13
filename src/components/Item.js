@@ -8,7 +8,6 @@ function Item({ name, category }) {
   }
 
    
-
   const myItem = addItem ? "in-cart" : ""
   const color = addItem ? "purple" : ""
 
